@@ -9,6 +9,10 @@ git clone https://github.com/NotScream73/Warehouse.git
 
 cd warehouse
 
+Переключитесь на нужную ветку:
+
+git checkout develop
+
 Настройте базу данных PostgreSQL:
 
 Создайте базу данных в PostgreSQL и настройте файл application.properties.
